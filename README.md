@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 **На данный момент я прошел/прохожу обучение в:**
 
 * [Курс "Python-разработчик с нуля" на Netology.ru](https://netology.ru/programs/python)
-* [Курс "Программирование на Python" на Stepik.org](https://stepik.org/cert/1510906)
+* [Курс "Программирование на Python" на Stepik.org](https://stepik.org/lesson/3360/step/2?unit=943)
 
 **Технологии:**
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
