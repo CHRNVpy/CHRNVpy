@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 * Python3
 * PyCharm
 * Git
-* PostgreSQL (psycopg2, sqlachemy)
+* PostgreSQL (psycopg2, sqlachemy) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 * Linux
 * API VK, API Telegram, API Google Cloud
 
@@ -74,11 +74,12 @@ Here are some ideas to get you started:
 * [Курс "Программирование на Python" на Stepik.org](https://stepik.org/cert/1510906)
 
 **Технологии:**
-* Python3
-* PyCharm
-* Git
-* PostgreSQL (psycopg2, sqlachemy)
-* Linux
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+* ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 * API VK, API Telegram, API Google Cloud
 
 
