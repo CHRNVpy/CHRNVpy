@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 * Разработать ватсап/телеграм-бота для конвертации аудио-сообщений в текст, сразу в чате.
 * Изучить работу нейросетей и ИИ
-* Найти команду для совместной разработки ИИ
+* Найти работу)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CHRNVpy&show_icons=true&theme=tokyonight">
