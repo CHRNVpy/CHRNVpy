@@ -83,5 +83,5 @@ Here are some ideas to get you started:
 * Найти команду для совместной разработки ИИ
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHRNVpy&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHRNVpy&show_icons=true&theme=onedark">
 </p>
