@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 * [Курс "Программирование на Python" на Stepik.org](https://stepik.org/cert/1510906)
 
 **Технологии:**
+
 * Python3
 * PyCharm
 * Git
