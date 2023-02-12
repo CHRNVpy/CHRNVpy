@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Антон</a>
+<h1 align="center">Hi there, my name is Anton</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - <p align="center">
-  📫 Самый быстрый способ связи со мной:
+  📫 Fastest way to contact me:
 </p>
 
 <p align="center">
@@ -22,18 +22,12 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-Отучившись на юриста и проработав в совершенно отдаленной от юриспруденции отрасли,
-я понял, что иду не в том направлении. 
-С детства дружил с компьютером, поэтому решил возобновить свою дружбу.<br/>
-Способом возобновления дружбы оказалось изучение языка Python.
+I am a Junior Python Backend Developer and I am eager to bring my skills and passion to contribute to new projects. I have a solid understanding of Python, Django, and SQL databases. I am also familiar with RESTful APIs, and version control systems like Git.
 </p>
 
-**На данный момент я прошел/прохожу обучение в:**
+I am constantly learning and seeking new challenges, and I am open to working on any project that can help me improve my skills and experience. I am a team player and always aim to deliver high-quality work.
 
-* [Курс "Python-разработчик с нуля" на Netology.ru](https://netology.ru/programs/python)
-* [Курс "Программирование на Python" на Stepik.org](https://stepik.org/cert/1510906)
-
-**Технологии:**
+**Stack:**
 
 * Python3
 * PyCharm
@@ -54,40 +48,25 @@ Here are some ideas to get you started:
 </p>⚡ Fun fact: ...
 -->
 <p align="center">
-  📫 Самый быстрый способ связи со мной:
+  📫 Fastest way to contact me:
 </p>
 
 <p align="center">
   <a href="https://t.me/chernovsib"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
-<p align="center">
-Отучившись на юриста и проработав в совершенно отдаленной от юриспруденции отрасли,
-я понял, что иду не в том направлении.<br/>
-С детства дружил с компьютером, поэтому решил возобновить свою дружбу.<br/>
-Способом возобновления дружбы оказалось изучение языка Python.
+<p align="left">
+I am a Junior Python Backend Developer and I am eager to bring my skills and passion to contribute to new projects. I have a solid understanding of Python, Django, and SQL databases. I am also familiar with RESTful APIs, and version control systems like Git.
 </p>
 
-**На данный момент я прошел/прохожу обучение в:**
+I am constantly learning and seeking new challenges, and I am open to working on any project that can help me improve my skills and experience. I am a team player and always aim to deliver high-quality work.
 
-* [Курс "Python-разработчик с нуля" на Netology.ru](https://netology.ru/programs/python)
-* [Курс "Программирование на Python" на Stepik.org](https://stepik.org/lesson/3360/step/2?unit=943)
+**Stack:**
 
-**Технологии:**
-* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-* ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-* ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-* ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-* API VK, API Telegram, API Google Cloud
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-**В моих планах:**
-
-* Разработать ватсап/телеграм-бота для конвертации аудио-сообщений в текст, сразу в чате.
-* Изучить работу нейросетей и ИИ
-* Найти работу)
+If you have a project that you think would be a good fit for my skills and experience, please don't hesitate to reach out! I would be more than happy to discuss further.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CHRNVpy&show_icons=true&theme=tokyonight">
