@@ -68,6 +68,29 @@ I am constantly learning and seeking new challenges, and I am open to working on
 
 If you have a project that you think would be a good fit for my skills and experience, please don't hesitate to reach out! I would be more than happy to discuss further.
 
+<details>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHRNVpy&show_icons=true&theme=tokyonight">
+  <a href="https://github.com/CHRNVpy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHRNVpy&theme=transparent" />
+  </a>
+  <a href="https://github.com/CHRNVpy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHRNVpy&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/CHRNVpy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHRNVpy&theme=transparent" />
+  </a>
+  <a href="https://github.com/CHRNVpy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRNVpy&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
 </p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/CHRNVpy">
+    <img src="https://komarev.com/ghpvc/?username=CHRNVpy&color=blue&style=flat)" />
+  </a>
+</p>
+
+<!-- <p align="center"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=CHRNVpy&show_icons=true&theme=tokyonight">
+</p> -->
