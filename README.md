@@ -22,6 +22,14 @@
 <p><code>If you have a project that you think would be a good fit for my skills and experience, please don't hesitate to reach out! I would be more than happy to discuss further.</code></p>
 
 <details>
+    <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=CHRNVpy&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+</div>
+</details>
+
+
+<!--
+<details>
 <p align="center">
   <a href="https://github.com/CHRNVpy">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHRNVpy&theme=transparent" />
@@ -37,6 +45,7 @@
   </a>
 </p>
 </details>
+-->
 
 <p align="center">
   <a href="https://github.com/CHRNVpy">
