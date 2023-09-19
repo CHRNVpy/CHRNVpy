@@ -33,7 +33,7 @@
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,django,fastapi,flask,postgres,mysql,sqlite,html,css,docker,gcp,aws,postman,linux,solidity" />
+    <img src="https://skillicons.dev/icons?i=py,git,django,fastapi,flask,postgres,mysql,sqlite,html,css,docker,gcp,aws,postman,linux,solidity&perline=8" />
   </a>
 </p>
 
