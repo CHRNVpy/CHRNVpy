@@ -20,7 +20,7 @@
 
 <div>
   <p align="left", <a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">I am a Python Backend Developer and I am eager to bring my skills and passion to contribute to new projects. I have a solid understanding of Python, Django, SQL databases, and NoSQL MongoDB. I am also familiar with RESTful APIs, Websockets and Git version control system. Worked with Flask, FastAPI, fast learning.</p>
-  <p align="left">I am a Python Backend Developer and I am eager to bring my skills and passion to contribute to new projects. I have a solid understanding of Python, Django, SQL databases, and NoSQL MongoDB. I am also familiar with RESTful APIs, Websockets and Git version control system. Worked with Flask, FastAPI, fast learning. Started explore Solidity recently</p>
+  <p align="left">I am constantly learning and seeking new challenges, and I am open to work on any project that can help me improve my skills and experience. I am a team player and always aim to deliver high-quality work. Started explore Solidity recently</p>
 </div>
 
 <!--
