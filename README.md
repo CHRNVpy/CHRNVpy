@@ -36,6 +36,9 @@
   </a>
 </p>
 
+##### My Credly Badges
+🎖️ [View my Credly badge](https://www.credly.com/badges/df25c2d9-5a80-4010-8ca6-4452693ea323/public_url)
+
 
 <!--
 <p><code>If you have a project that you think would be a good fit for my skills and experience, please don't hesitate to reach out! I would be more than happy to discuss further.</code></p>
