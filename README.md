@@ -32,7 +32,14 @@
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,django,fastapi,flask,postgres,mysql,sqlite,mongodb,html,css,docker,gcp,aws,postman,linux,rust,go&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,git,fastapi,django,flask,postgres,mysql,sqlite,mongodb,html,css,docker,gcp,aws,postman,linux&perline=8" />
+  </a>
+</p>
+
+<strong>Learning:</strong>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,go&perline=8" />
   </a>
 </p>
 
