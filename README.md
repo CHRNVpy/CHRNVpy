@@ -43,7 +43,7 @@ Python Backend Developer with **2+ years of commercial experience** building sca
 
 ### 🏅 Certifications
 
-<p>
+<p align="center">
   <a href="https://www.skills.google/public_profiles/f093a51b-1a73-4f66-a432-10cf83e99170/badges/23146372">
     <img src="https://cdn.qwiklabs.com/cJuD3N2yTWsqG%2FaCI6kMaEtBxaOKn1iA6a981zMbIzg%3D" width="140"/>
   </a>
