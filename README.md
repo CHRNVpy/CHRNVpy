@@ -28,7 +28,7 @@ Python Backend Developer with **2+ years of commercial experience** building sca
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,flask,postgres,mysql,sqlite,mongodb,elasticsearch,redis,docker,linux,git,postman,aws,gcp&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,mysql,ai,elasticsearch,redis,docker,linux,git,postman,aws,gcp,prometheus,sqlite,mongodb,&perline=7" />
 </p>
 
 ---
